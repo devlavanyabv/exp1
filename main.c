@@ -1,3 +1,3 @@
 printf("welcome");
 printf("hello");
-printf("i made some changes")
+printf("i made some changes");
